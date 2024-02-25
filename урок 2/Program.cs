@@ -20,14 +20,3 @@ Console.WriteLine($"Mohi duyum: {mohiduyumsumma}");
 double mohisevum = mohiduyumsumma * 1.07;
 Console.WriteLine($"mohi sevum: {mohisevum}");
 Console.WriteLine($"hamagi foida:{mohisevum-summai_deposit}");
-
-
-
-
-
-
-
-
-bool nomi_durust = false;
-short short_nomber = 32767;//2 bit 
-double double_nomber = 10.5;
